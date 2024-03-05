@@ -1,0 +1,110 @@
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.exe
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.deps.json
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.runtimeconfig.json
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.runtimeconfig.dev.json
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.pdb
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.csproj.AssemblyReference.cache
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.AssemblyInfoInputs.cache
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.AssemblyInfo.cs
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.csproj.CoreCompileInputs.cache
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.csproj.CopyComplete
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.dll
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.pdb
+D:\230_Berk\02032024_Dersler\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.genruntimeconfig.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.exe
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.deps.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.runtimeconfig.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.runtimeconfig.dev.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\EF_Core.pdb
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.csproj.AssemblyReference.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.AssemblyInfoInputs.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.AssemblyInfo.cs
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.csproj.CoreCompileInputs.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.csproj.CopyComplete
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.pdb
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\EF_Core\EF_Core\obj\Debug\netcoreapp3.1\EF_Core.genruntimeconfig.cache
