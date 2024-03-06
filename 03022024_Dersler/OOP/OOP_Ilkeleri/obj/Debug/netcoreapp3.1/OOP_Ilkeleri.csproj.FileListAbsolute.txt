@@ -1,0 +1,42 @@
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.exe
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.deps.json
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.runtimeconfig.json
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.runtimeconfig.dev.json
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.dll
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.pdb
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.csproj.AssemblyReference.cache
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.AssemblyInfoInputs.cache
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.AssemblyInfo.cs
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.csproj.CoreCompileInputs.cache
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.dll
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.pdb
+D:\230_Berk\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.genruntimeconfig.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.exe
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.deps.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.runtimeconfig.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.runtimeconfig.dev.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.pdb
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.csproj.AssemblyReference.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.AssemblyInfoInputs.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.AssemblyInfo.cs
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.csproj.CoreCompileInputs.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.pdb
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.genruntimeconfig.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.exe
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.deps.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.runtimeconfig.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.runtimeconfig.dev.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.pdb
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.csproj.AssemblyReference.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.AssemblyInfoInputs.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.AssemblyInfo.cs
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.csproj.CoreCompileInputs.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.pdb
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\03022024_Dersler\OOP\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.genruntimeconfig.cache
