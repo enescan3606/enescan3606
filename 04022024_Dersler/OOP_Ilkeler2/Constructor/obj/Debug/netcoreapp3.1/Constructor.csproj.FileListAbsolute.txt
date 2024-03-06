@@ -1,0 +1,14 @@
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\bin\Debug\netcoreapp3.1\Constructor.exe
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\bin\Debug\netcoreapp3.1\Constructor.deps.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.dev.json
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\bin\Debug\netcoreapp3.1\Constructor.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\bin\Debug\netcoreapp3.1\Constructor.pdb
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.AssemblyReference.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\obj\Debug\netcoreapp3.1\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfoInputs.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfo.cs
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\obj\Debug\netcoreapp3.1\Constructor.dll
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\obj\Debug\netcoreapp3.1\Constructor.pdb
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\Şubat OOP\04022024_Dersler\OOP_Ilkeler2\Constructor\obj\Debug\netcoreapp3.1\Constructor.genruntimeconfig.cache
