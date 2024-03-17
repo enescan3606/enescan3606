@@ -1,0 +1,5 @@
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\NTier_Arch\NTier_Arch\obj\Debug\netcoreapp3.1\NTier_Arch.csproj.AssemblyReference.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\NTier_Arch\NTier_Arch\obj\Debug\netcoreapp3.1\NTier_Arch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\NTier_Arch\NTier_Arch\obj\Debug\netcoreapp3.1\NTier_Arch.AssemblyInfoInputs.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\NTier_Arch\NTier_Arch\obj\Debug\netcoreapp3.1\NTier_Arch.AssemblyInfo.cs
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\NTier_Arch\NTier_Arch\obj\Debug\netcoreapp3.1\NTier_Arch.csproj.CoreCompileInputs.cache

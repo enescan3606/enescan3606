@@ -1,0 +1,5 @@
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\NTier_Arch\Ntier_DataAccess\obj\Debug\netcoreapp3.1\Ntier_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\NTier_Arch\Ntier_DataAccess\obj\Debug\netcoreapp3.1\Ntier_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\NTier_Arch\Ntier_DataAccess\obj\Debug\netcoreapp3.1\Ntier_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\NTier_Arch\Ntier_DataAccess\obj\Debug\netcoreapp3.1\Ntier_DataAccess.AssemblyInfo.cs
+C:\Users\Enes Can\Desktop\vektörel berk hoca kodlar\mart\NTier_Arch\Ntier_DataAccess\obj\Debug\netcoreapp3.1\Ntier_DataAccess.csproj.CoreCompileInputs.cache
